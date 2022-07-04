@@ -10,6 +10,6 @@ import junit.framework.TestSuite;
 public class TestMain extends TestCase{
 
 	public void testInputIsEven() {
-		assertTrue(Main.checkIfInputIsAnEvenNumber(23));
+		assertTrue(Main.checkIfInputIsAnEvenNumber(22));
 	}
 }
